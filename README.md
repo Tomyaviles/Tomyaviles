@@ -13,3 +13,8 @@
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
+
+## 🛠️ Proyectos Destacados!
+   📚Api para Bibliotecas con funcion vender y prestar libros: https://github.com/Tomyaviles/Api-Biblioteca.
+   
+   🏬 Api para un Bazar: https://github.com/Tomyaviles/ApiBazar.
