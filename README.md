@@ -1,8 +1,8 @@
 # ¡Hola! 👋 Soy Tomy Aviles  
 
 🎓 Estudiante de programación en la UTN.  
-💻 Apasionado por el desarrollo con **Java, Spring Boot y Angular**.  
-🚀 Actualmente aprendiendo: **DevOps y seguridad informática**.  
+💻 Apasionado por el desarrollo con **Java, Spring Boot, React, Python**.  
+🚀 Actualmente aprendiendo: **DevOps y Redes**.  
 
 ---
 
