@@ -18,7 +18,8 @@
 ---
 
 ## 🛠️ Proyectos Destacados!
-    🍽️ Proyecto FullStac(React+Typescript - Python+Fastapi) para una Food Store:  https://github.com/Tomyaviles/Proyecto_Food_Store_facultad
+
+ 🍽️  Proyecto FullStack(React+Typescript - Python+Fastapi) para una Food Store:  https://github.com/Tomyaviles/Proyecto_Food_Store_facultad
    📚Api para Bibliotecas con funcion vender y prestar libros: https://github.com/Tomyaviles/Api-Biblioteca.
    
    🧉Api para Emprendimiento materos con una gestion de stock completa: https://github.com/Tomyaviles/Api-Mates-Del-Fin
